@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a first year PhD student at Rice University, Electrical and Computer Engineering department (since August 2018).
+I am a first year PhD student at [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department (since August 2018).
 
 During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I work under the guidance of [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). My research interests lie in the areas of Computer Vision, Machine Learning, Deep Learning and Augmented Reality. You can find my [CV](https://gaurav16gupta.github.io/Resume-%20Gaurav%20Gupta.pdf) and [Publications](https://gaurav16gupta.github.io/publications/).
 
@@ -20,6 +20,6 @@ Apart from work I often travel and enjoy [Photography](https://500px.com/gaurav1
 </form>
 
 ### Recent Activities:
+* August 2018: Joined Rice University 
 * August 2017: Paper accepted- "Siamese Networks for chromosomes classification" at BIC, ICCV-2017.
 * August 2017: Paper accepted- "Information Extraction from Hand-marked Industrial Inspection Sheets" at CBDAR, ICDAR-2017.
-* July 2017: Attended Summer School- DLSS and RLSS at [MILA](https://mila.quebec/en/cours/deep-learning-summer-school-2017/), University of Montreal organised by Yoshua Benjio.
