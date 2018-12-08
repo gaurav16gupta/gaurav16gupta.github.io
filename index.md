@@ -5,7 +5,7 @@ published: true
 
 I am a first year PhD student at [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department.
 
-During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I work under the guidance of [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). My research interests lie in the areas of Computer Vision, Machine Learning, Deep Learning and Augmented Reality. You can find my [CV](https://gaurav16gupta.github.io/Resume-%20Gaurav%20Gupta.pdf){:target="_blank"} and [Publications](https://gaurav16gupta.github.io/publications/).
+During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I work under the guidance of [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). My research interests lie in the areas of Computer Vision, Machine Learning, Deep Learning and Augmented Reality. You can find my [CV](https://gaurav16gupta.github.io/Resume-%20Gaurav%20Gupta.pdf target="_blank") and [Publications](https://gaurav16gupta.github.io/publications/).
 
 I am Bachelor of Technology (B.Tech.) in Electrical Engineering (2010-2014) from [Indian Institute of Technology,Hyderabad, India](http://www.iith.ac.in). In final year, I worked with [Dr. Sumohana Channappayya](https://www.iith.ac.in/~sumohana/) on Multiple Target Tracking. 
 
