@@ -20,6 +20,7 @@ Apart from work I often travel and enjoy [Photography](https://500px.com/gaurav1
 </form>
 
 ### Recent Activities:
+* May 2019: Joined Amazon Search as an Applied Scientist Intern
 * August 2018: Joined Rice University 
 * August 2017: Paper accepted- "Siamese Networks for chromosomes classification" at BIC, ICCV-2017.
 * August 2017: Paper accepted- "Information Extraction from Hand-marked Industrial Inspection Sheets" at CBDAR, ICDAR-2017.
