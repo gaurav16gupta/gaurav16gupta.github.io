@@ -13,7 +13,7 @@ I worked on document analysis to facilitate information extraction form images a
 
 Take a look at my recent and old [Projects](https://gaurav16gupta.github.io/projects). 
 
-Apart from work I often travel and enjoy Photography ([500px](https://500px.com/gaurav16gupta), [Insta](https://www.instagram.com/gaurav16gupta/)).
+Apart from work I often travel and enjoy Photography ([500px](https://500px.com/gaurav16gupta), [Instagram](https://www.instagram.com/gaurav16gupta/)).
 
 <form action="https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en">
     <input type="submit" value="Google Scholar" width="100" height="20" />
