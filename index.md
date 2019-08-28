@@ -18,7 +18,7 @@ Apart from work I often travel and enjoy Photography ([500px](https://500px.com/
 </form>
 
 ### Recent Activities:
-* May 2019: Joined Amazon Search as an Applied Scientist Intern
+* May 2019-Aug 2019: Applied Scientist Intern at Amazon Search
+* December 2018: Joined [RUSH lab](http://rushlab.blogs.rice.edu/)
 * August 2018: Joined Rice University 
-* August 2017: Paper accepted- "Siamese Networks for chromosomes classification" at BIC, ICCV-2017.
-* August 2017: Paper accepted- "Information Extraction from Hand-marked Industrial Inspection Sheets" at CBDAR, ICDAR-2017.
+
