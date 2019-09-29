@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Gaurav Gupta
+name: Tharun Medini
 
 # Short bio or description (displayed in the header)
 description: PhD student at Rice University
@@ -18,12 +18,12 @@ avatar: /images/profile.JPG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: gaurav.gupta@rice.edu
-  facebook: 
+  email: tharun.medini@rice.edu
+  facebook: tharunkumar.reddy.9
   flickr:
-  github: gaurav16gupta
-  instagram: gaurav16gupta/
-  linkedin: gauravgupta16/
+  github: tharun24
+  instagram: 
+  linkedin: tharunmedini/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://gaurav16gupta.github.io/
+url: https://tharunmedini.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
