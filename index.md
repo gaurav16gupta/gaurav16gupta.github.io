@@ -3,22 +3,14 @@ layout: page
 published: true
 ---
 
-I am a first year PhD student, working with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) at [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department. I am working on randomized algorithms and machine learning for large scale datasets. 
+I am a 4th year PhD student in the Electrical and Computer Engineering Department, Rice University. I work with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) in the [RUSHLAB](https://rushlab.blogs.rice.edu/). My primary research area is Extreme Scale Deep Learning using Randomized Hashing methods.
 
-During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I work under the guidance of [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). I worked in the area of computer vision, deep learning and augmented reality. You can find my [CV](https://gaurav16gupta.github.io/Resume-%20Gaurav%20Gupta.pdf) and [Publications](https://gaurav16gupta.github.io/publications/).
+I previously interned as an **Applied Scientist** at **Amazon Search**, Palo Alto from May 2018 - Aug 2019. I worked on a myriad of problems like query-category prediction, super-fast reformulation for zero result queries, query to product prediction and fast approximate nearest neighbor search. My paper **Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents** in conjunction with Amazon got published at **NeurIPS 2019**. 
 
-I have Bachelor of Technology (B.Tech.) in Electrical Engineering (2010-2014) from [Indian Institute of Technology,Hyderabad, India](http://www.iith.ac.in). In final year, I worked with [Dr. Sumohana Channappayya](https://www.iith.ac.in/~sumohana/) on Multiple Target Tracking.  
+I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2015) from [Indian Institute of Technology, Bombay](http://www.iitb.ac.in).
 
-Take a look at my recent and old [Projects](https://gaurav16gupta.github.io/projects). 
-
-Apart from work I often travel and enjoy Photography ([500px](https://500px.com/gaurav16gupta), [Instagram](https://www.instagram.com/gaurav16gupta/)).
-
-<form action="https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en">
-    <input type="submit" value="Google Scholar" width="100" height="20" />
-</form>
-
-### Recent Activities:
-* May 2019-Aug 2019: Applied Scientist Intern at Amazon Search
+### News:
+* I'll be giving a talk about my work **Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning** at BioScience Research Collaborative (BRC) in Rice Data Science Conference May 2019-Aug 2019: Applied Scientist Intern at Amazon Search
 * December 2018: Joined [RUSH lab](http://rushlab.blogs.rice.edu/)
 * August 2018: Joined Rice University 
 
