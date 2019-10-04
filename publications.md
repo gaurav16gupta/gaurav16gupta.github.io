@@ -4,20 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
-### 2017
+### 2019
 
-1. __Gaurav Gupta__, Swati, Monika Sharma and Lovekesh Vig, _"Information Extraction from Hand-marked Industrial Inspection Sheets"_, in CBDAR, [ICDAR-2017](http://u-pat.org/ICDAR2017/index.php). [`Paper`](https://gaurav16gupta.github.io/papers/cbdar.pdf)
+1. __Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents__. __Tharun Medini__, Qixuan Huang, Yiqiu Wang, Vijai Mohan and Anshumali Shrivastava.
+To appear in NeurIPS 2019. [`pdf`](https://arxiv.org/pdf/1810.04254.pdf)
 
-2. Swati, __Gaurav Gupta__, Mohit Yadav, Monika Sharma and Lovekesh Vig, _"Siamese Networks for chromosomes classification"_, in BIC, [ICCV-2017](http://iccv2017.thecvf.com/). [`Paper`](https://gaurav16gupta.github.io/papers/Siamese%20Networks%20For%20Chromosome%20Classification_BIC_ICCV2017.pdf)
+2. __Be a Copycat: Uncharted Rewards by Mimicking Expert Action Sequences__ 
+__Tharun Medini__ and Anshumali Shrivastava
+Under review at AAAI 2020.
+To appear in ['Deep Reinforcement Learning Workshop'](https://sites.google.com/view/deep-rl-workshop-neurips-2019/home) at NeurIPS 2019. [`pdf coming soon`]
 
-3. Shreyas Mohatta, Ramkrishna Perla, __Gaurav Gupta__, Ehtesham Hassan and Ramya Hebbalaguppe, _"Robust Hand Gestural Interaction for Smartphone based AR/VR Application"_, in IEEE [WACV-2017](http://pamitc.org/wacv2017/). [`Paper`](https://gaurav16gupta.github.io/papers/HandGesture.pdf)
+3. __A Deep Dive of Count-Min Sketch for Extreme Multi-Label Classification__ 
+__Tharun Medini__ and Anshumali Shrivastava
+Under review at ICLR 2020.
+To appear in [Machine Learning with Guarantees Workshop](https://sites.google.com/view/mlwithguarantees) at NeurIPS 2019. [`pdf`](https://openreview.net/pdf?id=S1evKR4KvB)
 
-### 2016
-
-4. __Gaurav Gupta__, Nishant Kejriwal, Prasun Pallav, Ehtesham Hassan, Swagat Kumar and Ramya Hebbalaguppe, _"Indoor Localisation and Navigation on Augmented Reality Devices"_, in IEEE [ISMAR-2016](http://www.ismar.vgtc.org/). [`Paper`](https://gaurav16gupta.github.io/papers/IndoorLocalisation.pdf)
-
-5. Ramkrishna Perla\*, Ramya Hebbalaguppe\*, __Gaurav Gupta__\*, Gitika Sharma, Ehtesham Hassan, Monika Sharma, Lovekesh Vig and Gautam Shroff, _"An AR Inspection Framework: Feasibility Study with Multiple AR Devices"_, in IEEE [ISMAR-2016](http://www.ismar.vgtc.org/). [`Paper`](https://gaurav16gupta.github.io/papers/ARInspection.pdf)
-
-
-
-\* Indicates equal authorship. 
+4. __SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU__ 
+Beidi Chen, __Tharun Medini__ , James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava
+Under review at SysML 2020.
+To appear in [MLSys: Systems for ML Workshop](http://learningsys.org/neurips19/) at NeurIPS 2019. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf)
