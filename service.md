@@ -1,6 +1,7 @@
 ---
 layout: page
-published: true
+title: Service
+permalink: /service/
 ---
 
 ### Academic Service
