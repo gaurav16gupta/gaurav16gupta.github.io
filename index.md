@@ -10,7 +10,7 @@ I previously interned as an *Applied Scientist* at **Amazon Search**, Palo Alto 
 I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2015) from [Indian Institute of Technology, Bombay](http://www.iitb.ac.in).
 
 ### News:
-* I'll be giving a talk about my work **Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning** at BioScience Research Collaborative (BRC) in Rice Data Science Conference
+* I'll be giving a talk about my work *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference. [video link soon]
 * We'll present our paper *Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents* at **NeurIPS 2019**.
 * We'll present __4 papers__ in __NeurIPS 2019 workshops__. Please refer to [Publications](publications.md) for a list of all papers.  
 * We built a system __SLIDE__ which blends smart randomized algorithm, multi-core parallelism and workload optimization to train fully connected neural networks __3.5x faster__ on __CPU__ than NVIDIA Tesla __V-100 GPU__ for large output space problems (extreme classification). Our work featured in __IEEE Spectrum Journal Watch__ [Hash Your Way To a Better Neural Network](https://spectrum.ieee.org/tech-talk/computing/hardware/algorithms-and-hardware-for-deep-learning) by [David Schneider](https://spectrum.ieee.org/author/schneider-david) 
