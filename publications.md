@@ -25,11 +25,13 @@ Beidi Chen, __Tharun Medini__ , James Farwell, Sameh Gobriel, Charlie Tai and An
 Under review at SysML 2020. <br/>
 To appear in [MLSys: Systems for ML Workshop](http://learningsys.org/neurips19/) at NeurIPS 2019.
 
-5. _RAMBO: Repeated And Merged BloOm Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time_ [`pdf coming soon`] <br/>
-Gaurav Gupta, Benjamin Coleman, __Tharun Medini__, Vijai Mohan and Anshumali Shrivastava. <br/>
-Under review at SOSA 2020.
-
-6. _Cross-Modal Mapping for Generalized Zero-Shot Learning by Soft-Labeling_ [`pdf`](https://openreview.net/pdf?id=B1lmSeHKwB)<br/>
+5. _Cross-Modal Mapping for Generalized Zero-Shot Learning by Soft-Labeling_ [`pdf`](https://openreview.net/pdf?id=B1lmSeHKwB)<br/>
 Shabnam Daghaghi, __Tharun Medini__ and Anshumali Shrivastava. <br/>
 Under Review at ICLR 2020. <br/>
 To appear in [Visually Grounded Interaction and Language (ViGIL) Workshop](https://vigilworkshop.github.io/) at NeurIPS 2019.
+
+### Pre-prints
+
+1. _RAMBO: Repeated And Merged BloOm Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time_ [`pdf coming soon`] <br/>
+Gaurav Gupta, Benjamin Coleman, __Tharun Medini__, Vijai Mohan and Anshumali Shrivastava. <br/>
+Under review at SOSA 2020.
