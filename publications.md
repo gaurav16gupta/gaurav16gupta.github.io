@@ -32,6 +32,6 @@ To appear in [Visually Grounded Interaction and Language (ViGIL) Workshop](https
 
 ### Pre-prints
 
-1. _RAMBO: Repeated And Merged BloOm Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time_ [`pdf coming soon`] <br/>
+1. _RAMBO: Repeated And Merged BloOm Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time_ [`pdf`](https://arxiv.org/pdf/1910.02611.pdf) <br/>
 Gaurav Gupta, Benjamin Coleman, __Tharun Medini__, Vijai Mohan and Anshumali Shrivastava. <br/>
 Under review at SOSA 2020.
