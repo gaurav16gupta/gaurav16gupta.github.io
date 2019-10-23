@@ -9,7 +9,7 @@ I previously interned as an *Applied Scientist* at **Amazon Search**, Palo Alto 
 
 I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2015) from [Indian Institute of Technology, Bombay](http://www.iitb.ac.in).
 
-Here is my [`resume`](https://tharun24.github.io/AAAI_Imitation.pdf)
+Here is my [`resume`](https://tharun24.github.io/Resume.pdf)
 
 ### News:
 * I gave a talk about my work *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)   [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf)
