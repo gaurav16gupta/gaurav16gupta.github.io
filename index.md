@@ -12,7 +12,7 @@ I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### News:
-* I wrote an article about life and PhD at Rice University for [`Insight IITB`](https://www.insightiitb.org/). [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
+* I wrote an article about life and PhD at Rice University for Insight IITB. [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
 * I gave a talk about my work *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)   [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf)
 * I'll be giving an talk on 'Imitation Learning' at Schlumberger, Katy, TX on Nov 19th.  
 * We'll present our paper *Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents* at **NeurIPS 2019**. [`poster`](https://tharun24.github.io/Tharun_Medini_Poster.pdf)
