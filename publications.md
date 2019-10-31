@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### 2019
 
-1. _Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents_. [`pdf`](https://arxiv.org/pdf/1810.04254.pdf) <br/>
+1. _Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products_. [`pdf`](https://arxiv.org/pdf/1910.13830.pdf) <br/>
 __Tharun Medini__, Qixuan Huang, Yiqiu Wang, Vijai Mohan and Anshumali Shrivastava. <br/>
-To appear in __NeurIPS 2019__.
+Published at __NeurIPS 2019__.
 
 2. _Be a Copycat: Uncharted Rewards by Mimicking Expert Action Sequences_ [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf) <br/>
 __Tharun Medini__ and Anshumali Shrivastava <br/>
