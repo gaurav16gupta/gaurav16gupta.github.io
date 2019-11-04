@@ -5,7 +5,7 @@ permalink: /awards/
 ---
 
 ### Scholarships
-American Society of Indian Engineers Scholarship: 2019
+American Society of Indian Engineers Scholarship: 2019 <br/>
 Rice Graduate Fellowship:  _Aug 2016 - May 2018_ <br/>
 IIT Bombay MCM Scholarship: _Aug 2011 - May 2015_ 
 
