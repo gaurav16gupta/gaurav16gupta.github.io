@@ -14,7 +14,7 @@ Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 ### News:
 * Received American Society of Indian Engineers (ASIE) scholarship for 2019.
 * I wrote an article about life and PhD at Rice University for Insight IITB. [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
-* We'll present our paper *Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents* at **NeurIPS 2019**. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)[`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ)
+* We'll present our paper *Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents* at **NeurIPS 2019**. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ)
 * We'll present __4 papers__ in __NeurIPS 2019 workshops__. Please refer to [Publications](publications.md) for a list of all papers.  
 * We built a system __SLIDE__ which blends smart randomized algorithm, multi-core parallelism and workload optimization to train fully connected neural networks __3.5x faster__ on __CPU__ than NVIDIA Tesla __V-100 GPU__ for large output space problems (extreme classification). Our work featured in __IEEE Spectrum Journal Watch__ ([Hash Your Way To a Better Neural Network](https://spectrum.ieee.org/tech-talk/computing/hardware/algorithms-and-hardware-for-deep-learning)). The article was authored by [David Schneider](https://spectrum.ieee.org/author/schneider-david).
 
@@ -23,4 +23,4 @@ Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 * Our work *SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* was selected for a spotlight talk at Systems for ML workshop at NeurIPS 2019. [`Video coming soon`] [`pdf`](https://arxiv.org/pdf/1903.03129.pdf)
 * I gave a talk about my work *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)   [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf)
 * I gave a talk on 'Imitation Learning' at Schlumberger, Katy, TX on Nov 19th.
-* I gave a talk on 'Deep Reinforcement Learning' at Houston Machine Learning Meetup on Dec 7th.
+* I gave a talk on 'Intro to Actor-Critic Methods and Imitation in Deep Reinforcement Learning' at Houston ML Meetup at University of Houston on Dec 7th.
