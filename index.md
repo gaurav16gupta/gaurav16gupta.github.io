@@ -12,6 +12,7 @@ I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### News:
+* My research on *Extreme Scale Search using Count-Min Sketch* featured in __Rice News__ ([Rice, Amazon report breakthrough in ‘distributed deep learning’](http://news.rice.edu/2019/12/09/rice-amazon-report-breakthrough-in-distributed-deep-learning-2/)). The article was authored by Jade Boyd.
 * Received American Society of Indian Engineers (ASIE) scholarship for 2019.
 * I wrote an article about life and PhD at Rice University for Insight IITB. [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
 * We'll present our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ)
