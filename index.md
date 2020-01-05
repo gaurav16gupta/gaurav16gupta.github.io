@@ -12,7 +12,7 @@ I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### Updates:
-* Our paper *SLIDE: Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* got accepted to **SysML 2020**. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`]([`package`](https://github.com/keroro824/HashingDeepLearning))
+* Our paper *SLIDE: Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* got accepted to **SysML 2020**. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`](https://github.com/keroro824/HashingDeepLearning)
 * We presented our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**, Vancouver. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ) [`package`](https://github.com/Tharun24/MACH/)
 * Received American Society of Indian Engineers (ASIE) scholarship for 2019.
 * I wrote an article about life and PhD at Rice University for Insight IITB. [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
