@@ -12,21 +12,22 @@ I received my Bachelor of Technology (B.Tech.) in Electrical Engineering (2011-2
 Here is my [`resume`](https://tharun24.github.io/Resume.pdf).
 
 ### Updates:
+* Our paper *SLIDE: Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* got accepted to **SysML 2020**. [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`package`]([`package`](https://github.com/keroro824/HashingDeepLearning))
+* We presented our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**, Vancouver. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ) [`package`](https://github.com/Tharun24/MACH/)
 * Received American Society of Indian Engineers (ASIE) scholarship for 2019.
 * I wrote an article about life and PhD at Rice University for Insight IITB. [`link`](https://www.insightiitb.org/rice-university-tharun-medini-univ-series/)
-* We'll present our paper *Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products* at **NeurIPS 2019**. [`pdf`](https://papers.nips.cc/paper/9482-extreme-classification-in-log-memory-using-count-min-sketch-a-case-study-of-amazon-search-with-50m-products.pdf) [`poster`](https://tharun24.github.io/miscellaneous/MACH_Poster.pdf)  [`video`](https://www.youtube.com/watch?v=zHXy-AlzSxQ)
-* We'll present __4 papers__ in __NeurIPS 2019 workshops__. Please refer to [Publications](publications.md) for a list of all papers.  
+* We presented __4 papers__ in __NeurIPS 2019 workshops__. Please refer to [Publications](publications.md) for a list of all papers.  
 * We built a system __SLIDE__ which blends smart randomized algorithm, multi-core parallelism and workload optimization to train fully connected neural networks __3.5x faster__ on __CPU__ than NVIDIA Tesla __V-100 GPU__ for large output space problems (extreme classification) [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`package`](https://github.com/keroro824/HashingDeepLearning).
 
 ### In the News:
 * Popular tech media [`ARS Technica`](https://arstechnica.com/) wrote a great article [`Deep Learning breakthrough made by Rice University scientists`](https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/) about my NeurIPS paper.
-* [`TechXplore`](https://techxplore.com/) published the Rice News [`article`](http://news.rice.edu/2019/12/09/rice-amazon-report-breakthrough-in-distributed-deep-learning-2/) about my NeurIPS 2019 paper.  
+* [`TechXplore`](https://techxplore.com/) published the Rice News [`article`](https://techxplore.com/news/2019-12-breakthrough-deep.html) about my NeurIPS 2019 paper.  
 * My research on *Extreme Scale Search using Count-Min Sketch* featured in __Rice News__ ([Rice, Amazon report breakthrough in ‘distributed deep learning’](http://news.rice.edu/2019/12/09/rice-amazon-report-breakthrough-in-distributed-deep-learning-2/)). The article was authored by Jade Boyd.
 * [`IEEE Spectrum`](https://spectrum.ieee.org/) wrote a great article [Hash Your Way To a Better Neural Network](https://spectrum.ieee.org/tech-talk/computing/hardware/algorithms-and-hardware-for-deep-learning) about our new Deep Learning framework [`SLIDE`](https://github.com/keroro824/HashingDeepLearning). The article was authored by [David Schneider](https://spectrum.ieee.org/author/schneider-david).
 
 ### Invited Talks
 * I'll be talking about my research at Jane Street Symposium, New York on Jan 13th.
-* Our work *SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* was selected for a spotlight talk at Systems for ML workshop at NeurIPS 2019. [`Video coming soon`] [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`package`](https://github.com/keroro824/HashingDeepLearning)
+* Our work *SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU* was invited for a spotlight talk at Systems for ML workshop at NeurIPS 2019. [`video`](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1) [`pdf`](https://arxiv.org/pdf/1903.03129.pdf) [`package`](https://github.com/keroro824/HashingDeepLearning)
 * I gave a talk on 'Intro to Actor-Critic Methods and Imitation in Deep Reinforcement Learning' at Houston ML Meetup at University of Houston on Dec 7th.
 * I gave a talk on 'Imitation Learning' at Schlumberger, Katy, TX on Nov 19th.
 * I gave a talk about my work *Imitate like a Baby:The Key to Efficient Exploration in Deep Reinforcement Learning* at BioScience Research Collaborative (BRC) in Rice Data Science Conference on Oct 14th. [`video`](https://www.youtube.com/watch?v=BzCE1tA9QeI&list=PLcsG4X8Zn_UD-U-uOKeq6SwoIJTcf_mbd&index=15)   [`pdf`](https://tharun24.github.io/AAAI_Imitation.pdf)
