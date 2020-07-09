@@ -8,7 +8,9 @@ permalink: /publications/
 
 1. __Gaurav Gupta__, Benjamin Coleman, Tharun Medini, Vijai Mohan, Anshumali Shrivastava, _"RAMBO: Repeated And Merged Bloom Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time"_. [`Preprint`](https://arxiv.org/abs/1910.02611).
 
-2. RA Elworth, Qi Wang, Pavan K Kota, CJ Barberan, Benjamin Coleman, Advait Balaji, __Gaurav Gupta__, Richard G Baraniuk, Anshumali Shrivastava, Todd J Treangen, _"To Petabytes and beyond: recent advances in probabilistic and signal processing algorithms and their application to metagenomics"_, [`Paper`](https://academic.oup.com/nar/article/48/10/5217/5825624)
+2. __Gaurav Gupta\*__, Benjamin Coleman\*, John Chen, Anshumali Shrivastava, _"STORM: Foundations of End-to-End Empirical Risk Minimization on the Edge"_,[`Preprint`](https://arxiv.org/abs/2006.14554) 
+
+3. RA Elworth, Qi Wang, Pavan K Kota, CJ Barberan, Benjamin Coleman, Advait Balaji, __Gaurav Gupta__, Richard G Baraniuk, Anshumali Shrivastava, Todd J Treangen, _"To Petabytes and beyond: recent advances in probabilistic and signal processing algorithms and their application to metagenomics"_, [`Paper`](https://academic.oup.com/nar/article/48/10/5217/5825624)
 
 ### 2017
 
