@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2020
+
+1. __Gaurav Gupta__, Benjamin Coleman, Tharun Medini, Vijai Mohan, Anshumali Shrivastava, _"RAMBO: Repeated And Merged Bloom Filter for Multiple Set Membership Testing (MSMT) in Sub-linear time"_. [Preprint](https://arxiv.org/abs/1910.02611).
+
+2. RA Elworth, Qi Wang, Pavan K Kota, CJ Barberan, Benjamin Coleman, Advait Balaji, __Gaurav Gupta__, Richard G Baraniuk, Anshumali Shrivastava, Todd J Treangen, _"To Petabytes and beyond: recent advances in probabilistic and signal processing algorithms and their application to metagenomics"_, [paper](https://academic.oup.com/nar/article/48/10/5217/5825624)
+
 ### 2017
 
 1. __Gaurav Gupta__, Swati, Monika Sharma and Lovekesh Vig, _"Information Extraction from Hand-marked Industrial Inspection Sheets"_, in CBDAR, [ICDAR-2017](http://u-pat.org/ICDAR2017/index.php). [`Paper`](https://gaurav16gupta.github.io/papers/cbdar.pdf)
