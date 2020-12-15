@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a 3rd year PhD student, working with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) at [RUSH](http://rushlab.blogs.rice.edu/about/team/) Lab of [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department. I am working on information retrival, large scale Machine Learning and randomized algorithms. Hashing and sketching based methods are my favorites. 
+I am a 3rd year PhD student, working with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) at [RUSH](http://rushlab.blogs.rice.edu/about/team/) Lab of [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department. I am working on information retrieval, large scale Machine Learning, and randomized algorithms. Hashing and sketching based methods are my favorites. 
 
 During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I worked with [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). I worked in the area of computer vision, deep learning and augmented reality. You can find my [CV](https://gaurav16gupta.github.io/ResumeGauravGupta.pdf) and [Publications](https://gaurav16gupta.github.io/publications/).
 
