@@ -18,6 +18,7 @@ Apart from work I often travel and enjoy Photography ([500px](https://500px.com/
 </form>
 
 ### Recent Activities:
+* Paper accepted in International Conference on Management of Data (SIGMOD) 2021. [pdf](https://arxiv.org/abs/1910.02611)
 * May 2020-Aug 2020: Applied Scientist Intern at Amazon Web Services
 * May 2019-Aug 2019: Applied Scientist Intern at Amazon Search
 * December 2018: Joined [RUSH lab](http://rushlab.blogs.rice.edu/)
