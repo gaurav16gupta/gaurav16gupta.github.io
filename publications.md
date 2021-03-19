@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2020
 
-1. __Gaurav Gupta__, Minghao Yan, Ben Coleman, Tharun Medini, Bryce Kyllis, Leo Elworth, Todd Treangen, Anshumali Shrivastava, _"Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)"_. [`Preprint`](https://arxiv.org/abs/1910.02611).
+1. __Gaurav Gupta__, Minghao Yan, Ben Coleman, Tharun Medini, Bryce Kille, Leo Elworth, Todd Treangen, Anshumali Shrivastava, _"Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO)"_. [`Preprint`](https://arxiv.org/abs/1910.02611).
 
 2. __Gaurav Gupta__, Benjamin Coleman, John Chen, Anshumali Shrivastava, _"STORM: Foundations of End-to-End Empirical Risk Minimization on the Edge"_,[`Preprint`](https://arxiv.org/abs/2006.14554) 
 
