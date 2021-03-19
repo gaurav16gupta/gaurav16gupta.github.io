@@ -18,6 +18,7 @@ Apart from work I often travel and enjoy Photography ([500px](https://500px.com/
 </form>
 
 ### Recent Activities:
+* [Preprint](https://arxiv.org/abs/2103.09944) available for IRLI: Iterative Re-partitioning for Learning to Index; Gaurav Gupta, Tharun Medini, Anshumali Shrivastava, Alexander J Smola
 * Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO), accepted in International Conference on Management of Data (SIGMOD) 2021. [preprint](https://arxiv.org/abs/1910.02611)
 * May 2020-Aug 2020: Applied Scientist Intern at Amazon Web Services
 * May 2019-Aug 2019: Applied Scientist Intern at Amazon Search
