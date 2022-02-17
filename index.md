@@ -18,7 +18,7 @@ Apart from work I often travel and enjoy Photography ([500px](https://500px.com/
 </form>
 
 ### Recent Activities:
-* June 2021: "RAMBO speeds searches on huge DNA databases" - got featured on Rice News http://news.rice.edu/2021/06/28/rambo-speeds-searches-on-huge-dna-databases-2/
+* June 2021: "RAMBO speeds searches on huge DNA databases" - got featured in [Rice News](http://news.rice.edu/2021/06/28/rambo-speeds-searches-on-huge-dna-databases-2/) and [Science Daily](https://www.sciencedaily.com/releases/2021/06/210628152920.htm)
 * May 2021-Aug 2021: Joing [Adobe Research](https://research.adobe.com/) as a Research Intern.
 * [Preprint](https://arxiv.org/abs/2103.09944) available for IRLI: Iterative Re-partitioning for Learning to Index; Gaurav Gupta, Tharun Medini, Anshumali Shrivastava, Alexander J Smola
 * Fast Processing and Querying of 170TB of Genomics Data via a Repeated And Merged BloOm Filter (RAMBO), accepted in the International Conference on Management of Data- [SIGMOD 2021](https://2021.sigmod.org/). [preprint](https://gaurav16gupta.github.io/papers/RAMBO_SIGMOD2021.pdf)
