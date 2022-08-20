@@ -19,7 +19,7 @@ Apart from work I often travel and enjoy Photography ([500px](https://500px.com/
 
 ### Recent Activities:
 * Aug 18: Presented [BLISS](https://dl.acm.org/doi/abs/10.1145/3534678.3539414): A Billion scale Index using Iterative Re-partitioning at [SIGKDD,2022](https://kdd.org/kdd2022/]).
-* June 2022-Aug 2022: Joing [Adobe Research](https://research.adobe.com/) as a Research Intern.
+* June 2022-Aug 2022: Joining [Adobe Research](https://research.adobe.com/) as a Research Intern.
 * June 2021: "RAMBO speeds searches on huge DNA databases" - got featured in [Rice News](http://news.rice.edu/2021/06/28/rambo-speeds-searches-on-huge-dna-databases-2/) and [Science Daily](https://www.sciencedaily.com/releases/2021/06/210628152920.htm)
 * May 2021-Aug 2021: Research Intern at Adobe Research
 * [Preprint](https://arxiv.org/abs/2103.09944) available for IRLI: Iterative Re-partitioning for Learning to Index; Gaurav Gupta, Tharun Medini, Anshumali Shrivastava, Alexander J Smola
