@@ -21,7 +21,7 @@ I earned my Bachelor of Technology (B.Tech.) in Electrical Engineering from the 
 </form>
 
 ### Recent Activities:
-* Nov 15 2023: Presented [CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/abs/2308.15014) at [ISIR, WSDM 2024[(https://isir-ecom.github.io/)
+* Nov 15 2023: Presented [CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/abs/2308.15014) at [ISIR, WSDM 2024](https://isir-ecom.github.io/)
 * Nov 15 2023: Joined Amazon Search.
 * Aug 18 2023: Defended my Thesis!
 * Aug 18 2022: Presented [BLISS](https://dl.acm.org/doi/abs/10.1145/3534678.3539414): A Billion scale Index using Iterative Re-partitioning at [SIGKDD,2022](https://kdd.org/kdd2022/).
