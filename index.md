@@ -3,21 +3,26 @@ layout: page
 published: true
 ---
 
-I am a 5th year PhD student, working with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) at [RUSH](http://rushlab.blogs.rice.edu/about/team/) Lab of [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department. I am working on information retrieval, large scale Machine Learning, and randomized algorithms. Hashing and sketching based methods are my favorites. 
 
-During 2014 to July 2018, I was a part of Tata Consultancy Services Innovation Labs, Delhi, India, where I worked with [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/). I worked in the area of computer vision, deep learning and augmented reality. You can find my [CV](https://gaurav16gupta.github.io/CV_GauravGupta.pdf) and [Publications](https://gaurav16gupta.github.io/publications/).
+I am currently an Applied Scientist at Amazon Search, where I work on solving challenging problems in information retrieval and search technologies.
 
-I have Bachelor of Technology (B.Tech.) in Electrical Engineering (2010-2014) from [Indian Institute of Technology,Hyderabad, India](http://www.iith.ac.in). In final year, I worked with [Dr. Sumohana Channappayya](https://www.iith.ac.in/~sumohana/) on Multiple Target Tracking.  
+From 2018-2023, I was PhD student, working with [Prof. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) at [RUSH](http://rushlab.blogs.rice.edu/about/team/) Lab of [Rice University](https://eceweb.rice.edu/), Electrical and Computer Engineering department. My research focused on large-scale information retrieval, leveraging randomized algorithms and deep learning.
+From 2014 to 2018, I was a part of the Tata Consultancy Services (TCS) Innovation Labs in Delhi, India. There, I worked with [Dr. Gautam Shroff](https://www.linkedin.com/in/gautam-shroff-066901/) and [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) on projects involving computer vision and augmented reality. 
 
-Take a look at my recent and old [Projects](https://gaurav16gupta.github.io/projects). 
+I earned my Bachelor of Technology (B.Tech.) in Electrical Engineering from the [Indian Institute of Technology,Hyderabad, India](http://www.iith.ac.in). 
 
-Apart from work I often travel and enjoy Photography ([500px](https://500px.com/gaurav16gupta), [Instagram](https://www.instagram.com/gaurav16gupta/)).
+[CV](https://gaurav16gupta.github.io/CV_GauravGupta.pdf)
+[Publications](https://gaurav16gupta.github.io/publications/)
+
+[500px](https://500px.com/gaurav16gupta)
 
 <form action="https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en">
     <input type="submit" value="Google Scholar" width="100" height="20" />
 </form>
 
 ### Recent Activities:
+* Nov 15 2023: Presented [CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/abs/2308.15014) at [ISIR, WSDM 2024[(https://isir-ecom.github.io/)
+* Nov 15 2023: Joined Amazon Search.
 * Aug 18 2023: Defended my Thesis!
 * Aug 18 2022: Presented [BLISS](https://dl.acm.org/doi/abs/10.1145/3534678.3539414): A Billion scale Index using Iterative Re-partitioning at [SIGKDD,2022](https://kdd.org/kdd2022/).
 * June 2022-Aug 2022: Joining [Adobe Research](https://research.adobe.com/) as a Research Intern.
