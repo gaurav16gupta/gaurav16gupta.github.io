@@ -12,7 +12,7 @@ From 2014 to 2018, I was a part of the Tata Consultancy Services (TCS) Innovatio
 I earned my Bachelor of Technology (B.Tech.) in Electrical Engineering from the [Indian Institute of Technology,Hyderabad, India](http://www.iith.ac.in). 
 
 [CV](https://gaurav16gupta.github.io/CVGauravGupta-Jan2024.pdf)
-[Publications]([https://gaurav16gupta.github.io/publications/](https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en)
+[Publications](https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en)
 
 [500px](https://500px.com/gaurav16gupta)
 
