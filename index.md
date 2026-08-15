@@ -21,8 +21,6 @@ Occasionally I also convince agents to do useful things 🤖
 
 I'm interested in turning clever ideas into systems that actually work at scale.
 
-[Explore my research →](/research/)
-
 ---
 
 ## 💼 Experience
